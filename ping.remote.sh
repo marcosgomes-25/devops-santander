@@ -7,6 +7,8 @@
 # Autor: Marcos Lima
 
 #testando subir tudo pro github
+#
+#subindo para o github
 
 #IP utilizado para teste do ping
 ipdestino="192.168.15.1"
