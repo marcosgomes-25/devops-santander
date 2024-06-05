@@ -11,6 +11,7 @@
 #subindo para o github
 #
 #proximo passo é sincronizar com o SSH
+#Scripts do noto TI junto com o Devops Santander
 
 #IP utilizado para teste do ping
 ipdestino="192.168.15.1"
